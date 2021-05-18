@@ -148,6 +148,9 @@ function evaluatefn(){
     } 
  
     document.getElementById("output").innerHTML = stro;
+
+    var elmnt = document.getElementById("output");
+    elmnt.scrollIntoView();
 }
 
 str = "<br><br><br>";
