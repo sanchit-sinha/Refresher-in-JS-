@@ -134,7 +134,7 @@ function evaluatefn(){
 
     for(var k = 0 ; k < len ; k++){
         var index = k + 1;
-        stro += "<br> Possibilty Number " + index.toString() + " : <br>";
+        stro += "<br> Possibility Number " + index.toString() + " : <br>";
         for(var i = 0 ; i < n ; i++){
             for(var j = 0 ; j < n ; j++){
                 if(paths[k][i][j] == "Q"){
