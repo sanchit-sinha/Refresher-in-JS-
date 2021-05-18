@@ -5,6 +5,9 @@ arr.push(str_start);
 str_game1 = '<li><a href = "rock_paper_scissor.html" > ROCK PAPER SCISSOR</a><br></li>'
 arr.push(str_game1);
 
+str_game2 = '<li><a href = "chessboard_and_queens.html" > CHESSBOARD AND QUEENS</a><br></li>'
+arr.push(str_game2);
+
 str_end = '</ul><br>';
 arr.push(str_end);
 
